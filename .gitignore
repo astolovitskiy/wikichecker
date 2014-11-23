@@ -1,0 +1,12 @@
+.idea
+
+www/assets/*
+!www/assets/.gitignore
+
+www/protected/runtime/*
+!www/protected/runtime/.gitignore
+
+www/protected/config/database.php
+
+www/protected/versions/*
+!www/protected/versions/.gitignore
